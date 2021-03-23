@@ -2,7 +2,7 @@
   "name": "call-of-cthulhu-7th-babele-de",
   "title": "Call of Cthulhu 7th Babele German",
   "description": "Deutsche Übersetzung von avlockV's Call of Cthulhu 7th module für Foundry VTT mit babele -  Call of Cthulhu 7th (HavlockV/CoC7-FoundryVTT) german translation using Babele",
-  "version": "0.0.1",
+  "version": "1.0.2",
   "minimumCoreVersion" : "0.7.0",
   "compatibleCoreVersion":"0.7.9",
   "author": "Michael Heigl(xmichix)",
@@ -32,6 +32,6 @@
   "system": "CoC7",
   "systemVersion": "0.5.4",
   "url": "https://github.com/xmichix/call-of-cthulhu-7th-babele-de",
-  "manifest": "https://github.com/xmichix/call-of-cthulhu-7th-babele-de/releases/download/1.0.1/module.json",
-  "download": "https://github.com/xmichix/call-of-cthulhu-7th-babele-de/releases/download/1.0.1/master.zip"
+  "manifest": "https://github.com/xmichix/call-of-cthulhu-7th-babele-de/releases/download/1.0.2/module.json",
+  "download": "https://github.com/xmichix/call-of-cthulhu-7th-babele-de/releases/download/1.0.2/master.zip"
 }
