@@ -31,7 +31,7 @@
   ],
   "system": "CoC7",
   "systemVersion": "0.5.4",
-  "url": "https://github.com/lozalojo/call-of-cthulhu-7th-babele-es",
-  "manifest": "https://raw.githubusercontent.com/lozalojo/call-of-cthulhu-7th-babele-es/master/module.json",
-  "download": "https://github.com/lozalojo/call-of-cthulhu-7th-babele-es/archive/master.zip"
+  "url": "https://github.com/xmichix/call-of-cthulhu-7th-babele-de",
+  "manifest": "https://github.com/xmichix/call-of-cthulhu-7th-babele-de/releases/download/1.0.1/module.json",
+  "download": "https://github.com/xmichix/call-of-cthulhu-7th-babele-de/releases/download/1.0.1/master.zip"
 }
